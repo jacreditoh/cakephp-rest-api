@@ -1,5 +1,5 @@
 {
-    "name": "multidots/cakephp-rest-api",
+    "name": "jacreditoh/cakephp-rest-api",
     "description": "CakePHP 3 plugin to provide basic support for building REST API services",
     "keywords": ["cakephp", "rest", "api"],
     "type": "cakephp-plugin",
@@ -7,8 +7,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Multidots",
-            "homepage": "http://www.multidots.com",
+            "name": "Creditoh",
+            "homepage": "http://www.creditoh.com",
             "role": "Author"
         },
         {
@@ -17,8 +17,8 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/multidots/cakephp-rest-api/issues",
-        "source": "https://github.com/multidots/cakephp-rest-api"
+        "issues": "https://github.com/jacreditoh/cakephp-rest-api/issues",
+        "source": "https://github.com/jacreditoh/cakephp-rest-api"
     },
     "require": {
         "php": ">=5.6.0",
